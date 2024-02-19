@@ -95,5 +95,6 @@
 
     .kv__desc {
         margin-bottom: 36px;
+        max-width: 28rem;
     }
 }
